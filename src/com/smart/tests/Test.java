@@ -1,6 +1,7 @@
 package com.smart.tests;
 
 public class Test {
+	// adding a comment message
 	
 	@org.testng.annotations.Test
 	public void loginTest() {
